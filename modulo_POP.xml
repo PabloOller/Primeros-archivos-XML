@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding ="iso-8859-1"?>
+<DAW>
+ <curso asignatura = "Lenguajes de Marcas y Sistemas de Gestión de Información"> 
+  <horas>4</horas>
+  <caracter>obligatorio</caracter>
+  <inicio>15/09/2021</inicio>
+  <fin>30/06/2022</fin>
+  <alumnos matriculados="2">
+   <alumno1>
+    <nombre>Ana</nombre>
+    <apellidos>Fernández  Gutiérrez</apellidos>
+    <NIF>16965696L</NIF>
+    <telefono>789654321</telefono>
+    <email>ana.fdezgtrrez@hotmail.com</email>
+    <direccion>C/  El  Percebe,  13</direccion>
+    <ciudad>Santander</ciudad>
+    <CP>39302</CP>
+    <faltas>"No hay información"</faltas>
+    <notas>"No hay información"</notas>
+   </alumno1>
+   <alumno2>
+    <nombre>Guillermo</nombre>
+    <apellidos>Santos  Ortigosa</apellidos>
+    <NIF>98765432H</NIF>
+    <telefono>656566555</telefono>
+    <email>yhyh@yahoo.com</email>
+    <direccion>Avd. El Pez, 5</direccion>
+    <ciudad>Suances</ciudad>
+    <CP>39401</CP>
+    <faltas>"no tiene faltas de asistencia"</faltas>
+    <notas>"apto"</notas>
+   </alumno2>
+  </alumnos>
+ </curso>
+</DAW>
